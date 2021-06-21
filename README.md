@@ -51,3 +51,5 @@
     - "virtualexperiencesoffered" (Experience array)
 - Get all: GET to `http://localhost:12345/orders`
 - Get one: GET to `http://localhost:12345/orders/{id}` where `{id}` is an order ID from the database.
+
+Note: I followed the tutorial [here](https://www.thepolyglotdeveloper.com/2019/02/developing-restful-api-golang-mongodb-nosql-database/) for this project.
